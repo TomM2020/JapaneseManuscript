@@ -5,7 +5,7 @@
     "value" : "たけとり"
   }, {
     "label" : "Origin Place",
-    "value" : "The world"
+    "value" : "East Grinstead"
   }, {
     "label" : "Provenance",
     "value" : "<p>Acquired from William George Aston in 1911.</p><p>Book bears ex-libris stamp of Ernest Mason Satow. </p>"
@@ -194,28 +194,7 @@
       "label" : "5",
       "height" : 2096
     }, {
-      "images" : [ {
-        "resource" : {
-          "@type" : "dctypes:Image",
-          "service" : {
-            "profile" : "http://iiif.io/api/image/2/level1.json",
-            "@id" : "https://images.lib.cam.ac.uk/iiif/MS-FJ-00732-00004-000-00006.jp2",
-            "@context" : "http://iiif.io/api/image/2/context.json"
-          },
-          "format" : "image/jpg",
-          "width" : 5607,
-          "@id" : "https://images.lib.cam.ac.uk/iiif/MS-FJ-00732-00004-000-00006.jp2",
-          "height" : 2084
-        },
-        "@type" : "oa:Annotation",
-        "motivation" : "sc:painting",
-        "on" : "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00732-00004/canvas/6"
-      } ],
-      "@type" : "sc:Canvas",
-      "width" : 5607,
-      "@id" : "https://cudl.lib.cam.ac.uk/iiif/MS-FJ-00732-00004/canvas/6",
-      "label" : "6",
-      "height" : 2084
+
     }, {
       "images" : [ {
         "resource" : {
