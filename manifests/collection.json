@@ -1,0 +1,13 @@
+{
+  "id" : "https://TomM2020.github.io/JapaneseManuscript/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in TomM2020/JapaneseManuscript project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://TomM2020.github.io/JapaneseManuscript/manifests/manifest2.json",
+    "label" : "Taketori (FJ.732.4)"
+  } ]
+}
